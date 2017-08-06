@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Auto",
+				"AutorAdmin"
+			],
+			[
+				"que",
+				"queryset"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"fa-s",
+				"fa-stack-2x"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"co",
+				"col-sm-offset-3"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"tes",
+				"text-shadow"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"fo",
+				"form_email"
+			],
+			[
+				"for",
+				"form_mensaje"
+			],
+			[
+				"mensaje",
+				"mensaje_email"
+			],
+			[
+				"em",
+				"email_to"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"s",
+				"save"
+			],
+			[
+				"c",
+				"clean_email"
+			],
+			[
+				"Val",
+				"ValidationError"
+			],
+			[
+				"re",
+				"raise"
+			],
+			[
+				"len",
+				"len_nombre"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"abc",
+				"abc2"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"rei",
+				"Register"
+			],
+			[
+				"tole",
+				"tole"
+			],
+			[
+				"el",
+				"else\telse"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"Tx",
+				"TxF2"
+			],
+			[
+				"T",
+				"TxF"
+			],
+			[
+				"v",
+				"value2"
+			],
+			[
+				"A",
+				"Apagado"
+			],
+			[
+				"ce",
+				"celData"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"h",
+				"humidityData"
+			],
+			[
+				"digi",
+				"digitalRead\tArduino digitalRead"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"cont",
+				"ContInt"
+			],
+			[
+				"o",
+				"OUTPUT"
+			],
+			[
+				"pn",
+				"pinMode\tArduino pinMode"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"go",
+				"googleRedirHost"
+			],
+			[
+				"prit",
+				"printRedir"
+			],
+			[
+				"Meh",
+				"Meh"
+			],
+			[
+				"displ",
+				"display"
+			],
+			[
+				"if",
+				"if\tArduino if"
+			],
+			[
+				"FELI",
+				"felicidad"
+			],
+			[
+				"del",
+				"delay\tArduino delay()"
+			],
+			[
+				"me",
+				"me"
+			],
+			[
+				"ana",
+				"analogWrite\tArduino analogWrite"
+			],
+			[
+				"gRI",
+				"Grimorum"
+			],
+			[
+				"mE",
+				"Meh"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"Gri",
+				"Grimoriano"
+			],
+			[
+				"S",
+				"Star"
+			],
+			[
+				"Grio",
+				"Grimorum"
+			],
+			[
+				"bi",
+				"binary_data"
+			],
+			[
+				"api",
+				"api_url"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"flam",
+				"flama"
+			],
+			[
+				"hum",
+				"humedad"
+			],
+			[
+				"te",
+				"temperatura"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"e",
+				"estado"
+			],
+			[
+				"D",
+				"Digitalpin"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"m",
+				"mysql_close"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ul",
+				"ultimoQR"
+			],
+			[
+				"X",
+				"X_train"
+			],
+			[
+				"pre",
+				"predictions"
+			],
+			[
+				"t",
+				"y_train"
+			],
+			[
+				"y",
+				"y_train"
+			],
+			[
+				"X_",
+				"X_train"
+			],
+			[
+				"my",
+				"my_Kclassifier"
+			],
+			[
+				"tran",
+				"train_test_split"
+			],
+			[
+				"dot",
+				"dot_data"
+			],
+			[
+				"test_",
+				"test_target"
+			],
+			[
+				"test",
+				"test_target"
+			],
+			[
+				"tra",
+				"train_target"
+			],
+			[
+				"H",
+				"Humedad"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"Temp",
+				"Temperatura"
+			],
+			[
+				"lo",
+				"LOW"
+			],
+			[
+				"led",
+				"ledverde"
+			],
+			[
+				"C",
+				"CODRFID"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"mo",
+				"motor"
+			],
+			[
+				"por",
+				"porcentaje"
+			],
+			[
+				"Sr",
+				"String"
+			],
+			[
+				"read",
+				"readStringUntil"
+			],
+			[
+				"deC",
+				"DEC"
+			],
+			[
+				"Ser",
+				"Serial"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"AP",
+				"APELLIDOS"
+			],
+			[
+				"Te",
+				"temperatura_diaria"
+			],
+			[
+				"mys",
+				"mysql_close"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ADada",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sw",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/erdav/OneDrive/GitHub/hello-world/style.css",
+		"/C/Users/erdav/OneDrive/GitHub/hello-world/Pagina.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/biblioteca/templates/resultados.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/biblioteca/views2.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/formulario_buscar.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/club/views.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/biblioteca/models.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/biblioteca/admin.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/Lib/site-packages/django/contrib/admin/templates/admin/index.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/Lib/site-packages/django/contrib/admin/templates/admin/app_index.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/Lib/site-packages/django/contrib/admin/templates/admin/base.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/admin/index.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/admin/base_site.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/boletin/admin.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/test_project/settings.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/club/settings.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/fecha_mas.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/fecha_actual.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/base.html",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/ex2.m",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/predict.m",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/costFunction.m",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/sigmoid.m",
+		"/C/xampp/htdocs/conectar.php",
+		"/C/xampp/htdocs/codigoenbaselectura.php",
+		"/C/xampp/htdocs/conectaraprueba.php",
+		"/C/xampp/htdocs/paginadeprueba.php",
+		"/C/xampp/htdocs/datosaclub.php",
+		"/C/xampp/htdocs/conectarclublectura.php",
+		"/C/Users/erdav/Documents/Arduino/CLUB/abrepuertaesp/abrepuertaesp.ino",
+		"/C/Users/erdav/OneDrive/U/Semestre2017-II/2012119014.pdf",
+		"/C/Users/erdav/Documents/Arduino/Hybris/envia_datos/envia_datos.ino",
+		"/C/Users/erdav/Documents/Arduino/Hybris/RecibeDatos/RecibeDatos.ino",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/club/urls.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/boletin/views.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/templates/hola.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/test_project/views.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/test_project/urls.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/club/view.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/inicio.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/about.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/head_css.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/static_pro/static/css/navbar-static-top.css",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/base.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/navbar.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/forms.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/registration/activation_email.txt",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/registration/activation_complete.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/registration/active.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/static_pro/static/css/custom.css",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/boletin/forms.py",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/templates/javascript.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/raiz/boletin/models.py",
+		"/C/Users/erdav/OneDrive/Python/IoT Migue/Smart/hangares.html",
+		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/py2.7Django1.11/CRUD.md",
+		"/C/xampp/htdocs/Hybris/subedht11.php",
+		"/C/xampp/htdocs/Hybris/conectarhybris.php",
+		"/C/xampp/htdocs/Entrada_datos.php",
+		"/C/xampp/htdocs/pruebagrafico.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Python for Data Science and Machine Learning Bootcamp/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course.ipynb",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/04-sintaxis.css",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/04-como-dar-estilo.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/04-archivo-extra.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/07-prefijos.css",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/modernizr-custom.js",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/CSS3/normalize.css",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/29-formularios.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/25-multimedia.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/25-figure-figcaption-img.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/16-strong-em.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/14-enlaces.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/13-menu-de-navegacion.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/12-hgroup.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/11-h1-h2-h3-etc.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/10-header.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/09-Estructura-de-un-html.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/Sublime Text/HTML5/08-sintaxis.html",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/Diseño Web Desde Cero a Avanzado 45h Curso Completo/atajos.html",
+		"/C/Users/erdav/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/erdav/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/erdav/AppData/Roaming/Sublime Text 3/Packages/Package Control.sublime-package",
+		"/C/Users/erdav/Google Drive/Cursos/Coursera/Maquinas de Aprendizaje/Semana 3/Tareas de programacion - Logistic Regression/machine-learning-ex2/ex2/mapFeature.m",
+		"/C/Users/erdav/Google Drive/Cursos/Udemy/python-for-data-science-and-machine-learning-bootcamp/Python-Data-Science-and-Machine-Learning-Bootcamp/Welcome to the Course.ipynb",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Revision/1/biseccion.m",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Revision/1/programa6.m",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Mod6_Eva/programa6.m",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Mod6_Eva/biseccion.m",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Revision/0/biseccion.m",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Revision/0/biseccion.asv",
+		"/C/Users/erdav/Google Drive/Cursos/MiriadaX/MATLAB Y OCTAVE para ingenieros y científicos/Módulo 6/Mod6_Eva/programa6.matlab",
+		"/C/Users/erdav/Documents/Arduino/GDocsV3/GDocsV3.ino",
+		"/C/Users/erdav/Documents/Arduino/TestDisplaysNokia5110/TestDisplaysNokia5110.ino",
+		"/C/Users/erdav/Documents/Arduino/PruebaNokia5510/PruebaNokia5510.ino",
+		"/C/Users/erdav/Downloads/Mod3_ev1_PB.m",
+		"/C/Users/erdav/Downloads/POLIG.m",
+		"/C/Users/erdav/Downloads/POLIG.p",
+		"/C/Users/erdav/Documents/Arduino/libraries/LCD5110_Graph/examples/Arduino (AVR)/LCD5110_Graph_Demo/LCD5110_Graph_Demo.pde",
+		"/C/Users/erdav/Documents/Arduino/libraries/LCD5110_Graph/examples/Arduino (AVR)/LCD5110_Graph_Demo/Graphics.c",
+		"/C/Users/erdav/Documents/Arduino/libraries/LCD5110_Graph/Documentation/LCD5110_Graph.pdf",
+		"/C/Users/erdav/Documents/Arduino/TestDisplaysNokia5110.ino",
+		"/C/Users/erdav/Documents/Arduino/GDocsV3_Toma_Temp/GDocsV3_Toma_Temp.ino",
+		"/C/Users/erdav/Documents/Arduino/libraries/HTTPSRedirect/HTTPSRedirect.cpp",
+		"/C/Users/erdav/Documents/Arduino/embedded-lab/embedded-lab.ino",
+		"/C/Users/erdav/Documents/Arduino/TempHumEspPush/TempHumEspPush.ino",
+		"/C/Users/erdav/Documents/Arduino/GDocsV3_Toma_Temp.ino",
+		"/C/Users/erdav/Documents/Arduino/JULIAN/TempHum/TempHum.ino",
+		"/C/Users/erdav/Documents/Arduino/GoogleDocsV2/GoogleDocsV2.ino",
+		"/C/Users/erdav/Documents/Arduino/libraries/Adafruit-PCD8544-Nokia-5110-LCD-library-master/examples/pcdtest/pcdtest.ino",
+		"/C/Users/erdav/OneDrive/Grimorum/TRABAJO/SemaforoEmocional/SemaforoEmocionalV3.ino",
+		"/C/Users/erdav/Documents/Arduino/JULIAN/GetToma/GetToma.ino",
+		"/C/Users/erdav/Documents/Arduino/TomaEmbedde/TomaEmbedde.ino",
+		"/C/Users/erdav/Documents/Arduino/libraries/HTTPSRedirect/GoogleDocs.ino",
+		"/C/Users/erdav/Documents/Arduino/GDocsV3.ino",
+		"/C/Users/erdav/Documents/Arduino/RecibeDatos/RecibeDatos.ino",
+		"/C/Users/erdav/Downloads/evaluacion2.m",
+		"/C/Users/erdav/Downloads/tarea_evaluacion.m",
+		"/C/Users/erdav/Documents/Arduino/TomaEmbedde.ino",
+		"/C/Users/erdav/Documents/Arduino/TomaEspPush.ino",
+		"/C/Users/erdav/Documents/Arduino/embedded-lab.ino",
+		"/C/Users/erdav/Documents/Arduino/libraries/HTTPSRedirect/GoogleDocs/GoogleDocs.ino",
+		"/C/Users/erdav/Documents/Arduino/TempHumEspPush.ino",
+		"/C/Users/erdav/Documents/Arduino/DHTPRuebaESP/DHTPRuebaESP.ino",
+		"/C/Users/erdav/Documents/Arduino/PruebaESP8266/Prueba1/Prueba1.ino",
+		"/C/Users/erdav/Desktop/SemaforoEmocional_V1.ino",
+		"/C/Users/erdav/Documents/Arduino/EspCarritos/EspCarritos.ino",
+		"/C/Users/erdav/Documents/Arduino/PruebaNokia5510.ino",
+		"/C/Users/erdav/Documents/Arduino/EjOled126_64.ino"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Ctr",
+			"padre",
+			"etiqueta",
+			"// Credenciales del WIFI\n",
+			">\n",
+			"New",
+			"logo16_glcd_bm",
+			"PROGMEM logo16_glcd_bm",
+			"PROGMEM logo16_glcd_bmp[]",
+			"contrast",
+			"Santa Marta",
+			"val",
+			">\n",
+			"kpredictions",
+			"  \n",
+			"\";",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ADada",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "libelulas.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
