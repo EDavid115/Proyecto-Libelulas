@@ -419,15 +419,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "ADada",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -474,6 +465,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/erdav/OneDrive/GitHub/Proyecto-Libelulas/env-libelulas/ADada",
 		"/C/Users/erdav/OneDrive/GitHub/hello-world/style.css",
 		"/C/Users/erdav/OneDrive/GitHub/hello-world/Pagina.html",
 		"/C/Users/erdav/OneDrive/Python/VirtualEnvs/club_lectura/proyecto_club/biblioteca/templates/resultados.html",
@@ -600,8 +592,7 @@
 		"/C/Users/erdav/Documents/Arduino/PruebaESP8266/Prueba1/Prueba1.ino",
 		"/C/Users/erdav/Desktop/SemaforoEmocional_V1.ino",
 		"/C/Users/erdav/Documents/Arduino/EspCarritos/EspCarritos.ino",
-		"/C/Users/erdav/Documents/Arduino/PruebaNokia5510.ino",
-		"/C/Users/erdav/Documents/Arduino/EjOled126_64.ino"
+		"/C/Users/erdav/Documents/Arduino/PruebaNokia5510.ino"
 	],
 	"find":
 	{
@@ -654,37 +645,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "ADada",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
