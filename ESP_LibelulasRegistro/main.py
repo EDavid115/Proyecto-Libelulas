@@ -1,5 +1,7 @@
 import mfrc522
+import time
 from os import uname
+from umqtt.simple import MQTTClient
 
 
 def do_read():
@@ -46,5 +48,25 @@ def do_read():
 	except KeyboardInterrupt:
 		print("Bye")
 
-def send_data():
-	
+def pub_data(data):
+	# Test reception e.g. with:
+	# mosquitto_sub -t foo_topi
+    c = MQTTClient("umqtt_client", "192.168.1.5")
+    c.connect()
+    c.publish("uid", data)
+    c.disconnect()
+
+try:
+	while True:
+		card = []
+		card = do_read()
+		print (card)
+		data = str(card)
+		time.sleep(1)
+		if card != []:
+			dato = str(card)
+			pub_data(dato)
+			card = []
+			time.sleep(1)
+except KeyboardInterrupt:
+			print("Bye")
