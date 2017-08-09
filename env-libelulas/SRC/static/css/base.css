@@ -1,0 +1,25 @@
+body,html{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+   	height:100%;
+}
+
+.container{
+	position:relative;
+	min-height:100%;
+  text-align:center;
+}
+
+.principal{
+	padding-bottom:150px;
+  text-align:center;
+  margin:auto;
+}
+
+/* LogoAmbar */
+.logo{
+	margin: auto;
+	width: 60%;
+}

@@ -51,7 +51,7 @@ def do_read():
 def pub_data(data):
 	# Test reception e.g. with:
 	# mosquitto_sub -t foo_topi
-    c = MQTTClient("umqtt_client", "192.168.1.5")
+    c = MQTTClient("umqtt_client", "192.168.43.146")
     c.connect()
     c.publish("uid", data)
     c.disconnect()

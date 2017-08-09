@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block head_title%} Registro {% endblock %}
+
+{% block content %}
+	<header><h1>Por favor completa tu registro</h1></header>
+    <h3>Tu carné ha sido escaneado.</h3>
+    <!-- <p>El numero es: {{ uid }}</p> -->
+    <form action="." method="POST"> {% csrf_token %}
+        Nombre: <input type="text" name="Nombre"><br>
+        Apellido : <input type="text" name="Apellido"><br>
+        Codigo estudiantil : <input type="text" name="Codigo"><br>
+        Correo : <input type="email" name="Correo"><br>
+        Codigo de Registro: <input type="text" name="UID" value="**********"><br>
+        <input type="submit" value="Registrar">
+    </form>
+{% endblock %}
